@@ -14,7 +14,6 @@
   <img height="40" align="center" alt="Erica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Erica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" height="180em" alt="Erica-yoda" src="https://media1.giphy.com/media/ukMiDlCmdv2og/giphy.gif?cid=ecf05e47289i4j4tqycvmr4pg7vwzqhb7wfq4d1u7et19udu&rid=giphy.gif&ct=g">
 </div>
 
   
