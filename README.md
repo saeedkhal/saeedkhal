@@ -1,20 +1,16 @@
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Saeed, a full-time full-stack developer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🔭 I’m currently working on front [Rawd Admin Front](https://github.com/rawdhosting/lms-frontend) ,  [Rawd Admin Back](https://github.com/rawdhosting/RSS_Site_admin) , [Rawd Landing Page](https://betasite.rawdalsaleheen.edu.kw/)  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- 🌱 I’m currently learning more in typescript  
   
 
 <br/>  
-  
 <br/>  
 
 
