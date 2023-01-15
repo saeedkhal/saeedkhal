@@ -80,8 +80,6 @@
  
 </br>
 
-## Contact 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/saeedkhal" target="_blank">
