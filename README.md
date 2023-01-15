@@ -1,16 +1,19 @@
-### <div align="center">I'm Saeed, a full-time full-stack developer 👨‍💻 🚀</div>  
+### <div align="center">I'm Saeed, a full-time full-stack developer 👨‍💻 🚀 </div>  
   
 
-- 🔭 I’m currently working on front [Rawd Admin Front](https://github.com/rawdhosting/lms-frontend) ,  [Rawd Admin Back](https://github.com/rawdhosting/RSS_Site_admin) , [Rawd Landing Page](https://betasite.rawdalsaleheen.edu.kw/)  
+- 💼 I’m currently work @  [Rawd](https://betasite.rawdalsaleheen.edu.kw/) .  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 🔭 I’m currently working on front [Rawd Admin Front](https://github.com/rawdhosting/lms-frontend) ,  [Rawd Admin Back](https://github.com/rawdhosting/RSS_Site_admin) , [Rawd Landing Page](https://betasite.rawdalsaleheen.edu.kw/) .  
   
 
-- 🌱 I’m currently learning more in typescript  
+- ❓ Ask me about anything related to MERN stack and related technologies .  
   
 
-<br/>  
+- 🌱 I’m currently learning more in typescript .  
+  
+
+<br/>   
 <br/>  
 
 
