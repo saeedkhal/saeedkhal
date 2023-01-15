@@ -1,7 +1,7 @@
 
 ### I'm Saeed Khaled, a full stack developer 👨‍💻 🕵
   
-- 🔭 I’m currently working at rawd el salheen school  
+- 🔭 I’m currently working at Rawd el-salheen school  
 
 - 🌱 I’m currently learning type script
   
