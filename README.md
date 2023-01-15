@@ -84,12 +84,7 @@
 
  [![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=saeedkhal&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
- ![https://tryhackme.com/p/N0xff](https://tryhackme-badges.s3.amazonaws.com/N0xff.png)
  
-  <img src="https://komarev.com/ghpvc/?username=saeedkhal&&style=flat-square" align="center" />
-</div>
-
-  
 </br>
 
 ## Contact 
