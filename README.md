@@ -15,7 +15,7 @@
 
 <br/>   
 
-## My Skill Set  
+## My Skills Set  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
