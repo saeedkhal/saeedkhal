@@ -1,4 +1,4 @@
-## <div align="center">I'm Saeed, a full-time full-stack developer 👨‍💻 🚀 </div>  
+## <div align="center">I'm Saeed, a full-stack developer 👨‍💻 🚀 </div>  
   
 
 - 💼 I’m currently work @  [Rawd](https://betasite.rawdalsaleheen.edu.kw/) .  
