@@ -3,7 +3,7 @@
 
 - 💼 I’m currently work @  [Rawd](https://betasite.rawdalsaleheen.edu.kw/) .  
 
-- 💻︎ Look at [my portfolio](https://github.com/rawdhosting/lms-frontend) .
+- 💻︎ Look at [my portfolio](https://saeedkhal.github.io/saeed-khaled-portfolio/) .
   
 - 🔭 I’m currently working on [Rawd Admin Front](https://github.com/rawdhosting/lms-frontend) ,  [Rawd Admin Back](https://github.com/rawdhosting/RSS_Site_admin) , [Rawd Landing Page](https://betasite.rawdalsaleheen.edu.kw/) .  
 
