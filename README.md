@@ -7,7 +7,7 @@
   
 - 🔭 I’m currently working on [Rawd Admin Front](https://github.com/rawdhosting/lms-frontend) ,  [Rawd Admin Back](https://github.com/rawdhosting/RSS_Site_admin) , [Rawd Landing Page](https://betasite.rawdalsaleheen.edu.kw/) .  
 
-- ❓ Ask me about anything related to MERN stack and related technologies . 
+- ❓ Ask me about anything related to web and related technologies . 
   
 
 - 🌱 I’m currently learning more in typescript .  
