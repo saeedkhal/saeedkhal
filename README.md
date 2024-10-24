@@ -10,7 +10,7 @@
 - ❓ Ask me about anything related to web and related technologies . 
   
 
-- 🌱 I’m currently learning more about diffrent frameworks .  
+- 🌱 I'm currently learning more about different frameworks .  
  
 <br/>   
 
