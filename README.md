@@ -1,7 +1,7 @@
 ## <div align="center">I'm Saeed, a full-stack developer 👨‍💻 🚀 </div>  
   
 
-- 💼 I’m currently work @  [Rawd](https://www.rawdalsaleheen.edu.kw/ar/)  as a full-stack developer .  
+- 💼 I’m currently work @  [MindLuster]([https://www.rawdalsaleheen.edu.kw/ar/](https://www.mindluster.com/))  as a Senior Front End developer .  
 
 - 💻︎ Look at [my website](https://saeedkhal.github.io/saeed-khaled-portfolio/) .
   
