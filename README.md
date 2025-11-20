@@ -106,6 +106,7 @@
 </br>
 </br>
  
-  ![Snake animation](https://github.com/saeedkhal/saeedkhal/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/saeedkhal/saeedkhal/blob/output/github-snake-dark.svg)
+
  
 </div>
